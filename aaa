@@ -1,0 +1,109 @@
+<HEAD><TITLE>编程小助手</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<style>
+body {
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: #F5F5F5;
+	overflow: hidden;
+}
+body,td,th {
+	font-size: 9pt;
+	color: #000000;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+a:link,a:visited {
+	color: #0000FF;
+}
+a:hover,a:active {
+	color: #FF0000;
+}
+.linklist {
+	padding: 5px;
+	width: 500px;
+	height: 402px;
+	border-top: 1px solid #B2B5B7;
+	border-right: 1px solid #B2B5B7;
+	border-bottom: 1px solid #B2B5B7;
+	float: left;
+}
+.linklist li {
+	height: 22px;
+	overflow: hidden;
+}
+
+.linklist li,.linklist li span,.linklist a{line-height: 22px;}
+.linklist li span{padding-left: 10px;color:#000000;cursor:default;}
+.linklist a {
+	padding-left: 5px;
+}
+.linklist a:link,.linklist a:visited {
+	color: #0066CC;
+	text-decoration: underline;
+}
+.linklist a:hover,.linklist a:active {
+	color: #0099CC;
+	text-decoration: underline;
+}
+.rightlist {
+	padding: 5px;
+	width: 200px;
+	height: 402px;
+	float: left;
+	border-top: 1px solid #B2B5B7;
+	border-bottom: 1px solid #B2B5B7;
+	overflow: hidden;
+}
+.rightlist div {
+	height: 22px;
+	line-height: 22px;
+	margin-left: 10px;
+}
+.rightline{
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color:#CCCCCC;
+	clear: both;
+	overflow: visible;
+	height: 1px;
+	line-height: 1px;
+}
+</style>
+</HEAD>
+<BODY oncontextmenu=event.returnValue=false onselectstart=event.returnValue=false>
+<DIV class=linklist>
+<UL>
+<LI><SPAN>[官方论坛]</SPAN><A title=aardio官方论坛 href="http://bbs.aardio.com" target=_blank>Aardio官方论坛 bbs.aardio.com</A> </LI>
+<LI><SPAN>[其他论坛]</SPAN><A title="aardio第三方论坛" href="http://bbs.aardio.org/" target=_blank>Carl-aardio论坛 bbs.aardio.org</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="aardio 特殊符号用法大全" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=11257&from=portal" target=_blank>（一）aardio 特殊符号用法大全</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="aardio开发环境入门" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=8663&from=portal" target=_blank>（二）aardio开发环境入门</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title=使用plus控件制作精美界面 href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=11486&from=portal" target=_blank>（三）使用plus控件制作精美界面</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title=使用窗体设计器创建选项卡子页面 href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=13156&from=portal" target=_blank>（四）使用窗体设计器创建选项卡子页面</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="模式匹配快速入门" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=172&from=portal" target=_blank>（五）模式匹配快速入门</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="aardio多线程开发入门" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=13121&page=1&extra=" target=_blank>（六）aardio多线程开发入门</A></LI>
+<LI><SPAN>[图文教程]</SPAN><A title="使用 web.rest 调用 REST API" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=11218&from=portal" target=_blank>（七）使用 web.rest 调用 REST API</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="了解 aardio 标准库、扩展库、用户库、内核库" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=13131&from=portal" target=_blank>（八）了解 aardio 标准库、扩展库、用户库、内核库</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title="理解迭代器" href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=13150&from=portal" target=_blank>（九）理解迭代器</A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title=web.layout( HTMLayout ) 界面开发 快速入门  href="http://bbs.aardio.com/forum.php/?mod=viewthread&tid=10180" target=_blank>（十）web.layout( HTMLayout ) 界面开发 快速入门 </A> </LI>
+<LI><SPAN>[图文教程]</SPAN><A title=使用 fsys.table,fsys.config 创建配置文件 href="http://bbs.aardio.com/forum.php?mod=viewthread&tid=13193&from=portal" target=_blank>（十一）使用 fsys.table,fsys.config 创建配置文件</A></LI>
+<LI><SPAN>[视频教程]</SPAN><A title=用aardio制作微信定时发消息插件 href="http://bbs.aardio.org/forum.php?mod=viewthread&tid=589" target=_blank>用aardio制作微信定时发消息插件</A> </LI>
+</UL></DIV>
+<DIV class = "rightlist">
+<DIV>助手最新版本:<A href="http://pan.baidu.com/s/1i4e6gPR" target=_blank>V1.0.5</A></DIV>
+<DIV>您使用的版本:<SPAN id="verson"></SPAN></DIV>
+<hr class = "rightline">
+<DIV>本软件采用<a href="http://www.aardio.com" target=_blank>aardio</a>编写</DIV>
+<DIV>本软件作者QQ:1530806646</DIV>
+<DIV>欢迎提软件改进意见、反馈bug</DIV>
+<hr class = "rightline">
+<DIV>V1.0.5更新内容：</DIV>
+<DIV>增加常量查询</DIV>
+<DIV>增加常用编、解码，加、解密</DIV>
+<hr class = "rightline">
+</DIV>
+</BODY>
