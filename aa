@@ -94,7 +94,7 @@ a:hover,a:active {
 <LI><SPAN>[视频教程]</SPAN><A title=用aardio制作微信定时发消息插件 href="http://bbs.aardio.org/forum.php?mod=viewthread&tid=589" target=_blank>用aardio制作微信定时发消息插件</A> </LI>
 </UL></DIV>
 <DIV class = "rightlist">
-<DIV>助手最新版本:<A href="http://pan.baidu.com/s/1i4e6gPR" target=_blank>V1.0.5</A></DIV>
+<DIV>助手最新版本:<A href="http://pan.baidu.com/s/1i4e6gPR" target=_blank>V1.0.6</A></DIV>
 <DIV>您使用的版本:<SPAN id="verson"></SPAN></DIV>
 <hr class = "rightline">
 <DIV>本软件采用<a href="http://www.aardio.com" target=_blank>aardio</a>编写</DIV>
@@ -102,7 +102,7 @@ a:hover,a:active {
 <DIV>欢迎提软件改进意见、反馈bug</DIV>
 <hr class = "rightline">
 <DIV>V1.0.5更新内容：</DIV>
-<DIV>增加常量查询</DIV>
+<DIV>增加常量查询、中英翻译</DIV>
 <DIV>增加常用编、解码，加、解密</DIV>
 <hr class = "rightline">
 </DIV>
